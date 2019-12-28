@@ -1,13 +1,15 @@
 import React from "react";
 import "./Container.css";
-import Restaurant from "../Restaurant";
+import Logo from "../Logo";
 
 const Container = props => (
-    <div onClick={() => props.setClicked(props.id)} className="card col-md-3">
-    <div className="img-container">
-        <img alt={props.name} src={props.image} />
+    <div className={props.shake 
+        ? "container d-flex flex-wrap justify-content-center shake"
+        : "container d-flex flex-wrap justify-content-center"
+    }
+    >
+        {props.logos.map((a, i)=> <Logo name={a} key={i} clickEvent={props.clickEvent}/>)}
     </div>
-</div>
 )
 
 export default Container;

@@ -1,7 +1,7 @@
-import React, {Component} from  "react";
+import React {Component} from  "react";
 import Navbar from "./components/Navbar";
 import Container from "./components/Container";
-import Banner from "./components/Banner";
+import Intro from "./components/Intro";
 
 class Game extends Component {
     state = {
@@ -92,7 +92,7 @@ class Game extends Component {
               score={state.score}
               highScore={state.highScore}
             />
-            <Banner />
+            <Intro />
             <Container
               shake={state.shake}
               characters={state.allCharacters}
