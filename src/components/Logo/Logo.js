@@ -1,4 +1,5 @@
 import React from "react";
+import "./Logo.css"
 
 const Logo = props => (
     <div className ="card" onClick={e => props.clickEvent(e.target.src)}>
