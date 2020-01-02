@@ -8,7 +8,7 @@ import In from "./images/in-n-out.png";
 import McDonalds from "./images/mcdonalds.jpg";
 import Moes from "./images/moes.png";
 import Popeyes from "./images/popeyes.png";
-import Steak from "./images/steak";
+//import Steak from "./images/steak";
 import Subway from "./images/subway.png";
 import Which from "./images/which.jpg";
 
@@ -23,7 +23,7 @@ In,
 McDonalds,
 Moes,
 Popeyes,
-Steak,
+//Steak,
 Subway,
 Which
 ]

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9e65069e.chunk.js",
+    "main.js.map": "/static/js/main.9e65069e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a561f5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a561f5d.js.map",
+    "static/js/2.eaf1edd5.chunk.js": "/static/js/2.eaf1edd5.chunk.js",
+    "static/js/2.eaf1edd5.chunk.js.map": "/static/js/2.eaf1edd5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4f040a32d0673e9451eeba1946f3a68f.js": "/precache-manifest.4f040a32d0673e9451eeba1946f3a68f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.eaf1edd5.chunk.js.LICENSE": "/static/js/2.eaf1edd5.chunk.js.LICENSE",
+    "static/media/bds.png": "/static/media/bds.116f4fd4.png",
+    "static/media/mcdonalds.jpg": "/static/media/mcdonalds.8856a157.jpg",
+    "static/media/popeyes.png": "/static/media/popeyes.f611aaa1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a561f5d.js",
+    "static/js/2.eaf1edd5.chunk.js",
+    "static/js/main.9e65069e.chunk.js"
+  ]
+}

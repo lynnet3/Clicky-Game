@@ -69,7 +69,7 @@ class Game extends Component {
             navMsgColor: 'correct',   
             navMess: 'Keep going',     
             allLogos: shuffled,     
-            beenClicked: prevState,
+            beenClicked: prevSt,
             shake: false
       
         });
