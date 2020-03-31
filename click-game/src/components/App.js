@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 import Container from "./Container";
 import Banner from "./Banner";
 import Footer from "./Footer";
-import image from "../images"
+import image from "../../../src/images"
 
 class Game extends Component {
     state = {
